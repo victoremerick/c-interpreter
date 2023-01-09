@@ -1,0 +1,3 @@
+gcc ./compilador.c
+
+PAUSE

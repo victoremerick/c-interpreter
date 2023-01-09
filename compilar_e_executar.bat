@@ -1,0 +1,2 @@
+compilar.bat
+executar.bat
